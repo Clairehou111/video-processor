@@ -1,0 +1,88 @@
+# Video files
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+
+# Audio files
+*.mp3
+*.wav
+*.aac
+*.flac
+
+# Large media files
+*.zip
+*.rar
+*.7z
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Node modules (if any)
+node_modules/
+
+# Large output files
+output/*.mp4
+output/*.avi
+output/*.mov
+output/*/*.mp4
+output/*/*.avi
+output/*/*.mov
+
+# Keep directory structure but ignore large files
+output/*/final/*.mp4
+output/*/final/*.avi
+output/*/final/*.mov 

@@ -1,0 +1,40 @@
+🌟 Sider AI特朗普搞笑字幕翻译提示词
+============================================================
+生成时间: 2025-06-19 17:37:25
+目标模型: Claude Sonnet 4
+翻译类型: 搞笑幽默风格
+============================================================
+
+请使用Claude Sonnet 4模型翻译以下特朗普视频字幕。
+
+翻译要求：
+1. 这些字幕来自特朗普拍摄前的幕后花絮，非常搞笑和轻松
+2. 请使用幽默风趣的中文翻译，保持轻松愉快的氛围
+3. 保持特朗普独特的说话风格和语气
+4. 整个文本作为一个整体进行翻译，保持上下文连贯性
+5. 突出搞笑和轻松的元素
+
+英文字幕原文：
+Okay.
+Beautiful.
+Oh.
+I don't think you want to have the water in the picture, right?
+You can take it.
+Yeah, put it over there, Nick.
+Kind of in the stable as well.
+Yeah, I must take the table.
+Oh, you're good.
+Very good.
+Thank you.
+You know what you can do, Nick?
+Put the table back.
+It's missing something.
+Put the table back and put the water on the table without the thing on top of it.
+Okay.
+How does that look?
+Go ahead, take it out.
+Yeah.
+Right?
+Let's go.
+
+请将以上内容翻译成中文，保持幽默感和特朗普的独特风格。

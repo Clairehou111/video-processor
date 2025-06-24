@@ -1,0 +1,10 @@
+yt-dlp
+opencv-python
+moviepy
+openai-whisper
+googletrans==3.1.0a0
+pillow
+numpy
+requests
+torch
+transformers 
